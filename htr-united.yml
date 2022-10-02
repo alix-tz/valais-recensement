@@ -1,0 +1,66 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: Tables du recensement du Valais
+url: https://github.com/PonteIneptique/valais-recensement
+authors:
+  - name: Dubois
+    surname: Alain
+    roles:
+      - project-manager
+  - name: Clérice
+    surname: Thibault
+    roles:
+      - project-manager
+      - quality-control
+  - name: Rudaz
+    surname: Clemence
+    roles:
+      - transcriber
+  - name: Schlaeppi
+    surname: Darius
+    roles:
+      - transcriber
+  - name: Mamie
+    surname: Delphine
+    roles:
+      - transcriber
+  - name: Schmied
+    surname: Marie-Caroline
+    roles:
+      - support
+institutions: []
+description: Ensemble de formulaire de recensement
+project-name: Valais Time Machine
+project-website: https://www.timemachinevs.ch/
+language:
+  - fra
+  - deu
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1870'
+  notAfter: '1890'
+hands:
+  count: 1-per-file
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 1
+citation-file-link: >-
+  https://raw.githubusercontent.com/PonteIneptique/valais-recensement/main/CITATION.CFF
+transcription-guidelines: >-
+  - Superscript are transcribed with a ^ before the string.
+
+  - Transcription is faithful: nothing is corrected.
+
+  - Checkmarks in table are transcribed as `/`. Some checkmarks looking
+  character can be transcribed as `1` if the 1 in the dates looks the same
+
+  - Printed part of the form is not transcribed.
+
+  - Only `Col` regions are used for segmentation

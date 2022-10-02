@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Tables du recensement du Valais
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Dubois
+    family-names: Alain
+    affiliation: Archives du Valais
+  - given-names: Thibault
+    family-names: Clérice
+    orcid: 'https://orcid.org/0000-0003-1852-9204'
+  - given-names: Clémence
+    family-names: Mamie
+  - given-names: Schlaeppi
+    family-names: Darius
+  - given-names: Clémence
+    family-names: Rudaz
+  - given-names: Marie-Caroline
+    family-names: Schmied
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/PonteIneptique/valais-recensement
+    description: Github repository of the dataset
+repository-code: >-
+  https://github.com/PonteIneptique/valais-recensement
+url: 'https://recensements.vallesiana.ch'
+keywords:
+  - htr
+  - dataset
+  - groundtruth
+license: CC-BY-NC-4.0
