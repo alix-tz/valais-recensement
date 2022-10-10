@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4377" LABEL="Marginal" DESCRIPTION="block type Marginal"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
+    <OtherTag ID="BT4407" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
     <OtherTag ID="LT1451" LABEL="DefaultLine:Text" DESCRIPTION="line type DefaultLine:Text"/><OtherTag ID="LT1450" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
   </Tags>
   
@@ -1965,6 +1965,26 @@
                    ID="eSc_textblock_30c1324e"
                    TAGREFS="BT4376">
           <Shape><Polygon POINTS="5624 2859 5624 771 5353 771 5353 2859"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="44"
+                   VPOS="2934"
+                   WIDTH="5594"
+                   HEIGHT="458"
+                   ID="eSc_textblock_f5271b17"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="54 2934 44 3363 5638 3392 5638 2958"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="40"
+                   VPOS="371"
+                   WIDTH="5598"
+                   HEIGHT="609"
+                   ID="eSc_textblock_21a4cd4d"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="48 371 40 973 5638 980 5638 371"/></Shape>
           
         </TextBlock>
         

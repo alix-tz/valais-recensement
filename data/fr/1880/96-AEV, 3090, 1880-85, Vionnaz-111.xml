@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4377" LABEL="Marginal" DESCRIPTION="block type Marginal"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
+    <OtherTag ID="BT4407" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
     <OtherTag ID="LT1451" LABEL="DefaultLine:Text" DESCRIPTION="line type DefaultLine:Text"/><OtherTag ID="LT1450" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
   </Tags>
   
@@ -918,6 +918,36 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="5370"
+                   VPOS="645"
+                   WIDTH="483"
+                   HEIGHT="2081"
+                   ID="eSc_textblock_0708c8c2"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="5370 645 5372 2726 5853 2726 5853 645"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="81"
+                   VPOS="2817"
+                   WIDTH="5772"
+                   HEIGHT="463"
+                   ID="eSc_textblock_8118b0ff"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="81 2817 87 3241 5853 3280 5853 2836"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="60"
+                   VPOS="266"
+                   WIDTH="5793"
+                   HEIGHT="600"
+                   ID="eSc_textblock_40a9a431"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="60 266 66 866 5847 846 5853 266"/></Shape>
+          
+        </TextBlock>
+        
         <TextBlock HPOS="74"
                    VPOS="3021"
                    WIDTH="118"
@@ -928,13 +958,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="5370"
-                   VPOS="645"
-                   WIDTH="483"
-                   HEIGHT="2081"
-                   ID="eSc_textblock_0708c8c2"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="5370 645 5372 2726 5853 2726 5853 645"/></Shape>
+        <TextBlock HPOS="2956"
+                   VPOS="3671"
+                   WIDTH="1494"
+                   HEIGHT="149"
+                   ID="eSc_textblock_efc2f02c"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="2956 3820 2956 3671 4450 3671 4444 3820"/></Shape>
           
         </TextBlock>
         

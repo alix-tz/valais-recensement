@@ -11,14 +11,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4377" LABEL="Marginal" DESCRIPTION="block type Marginal"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
+    <OtherTag ID="BT4407" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
     <OtherTag ID="LT1451" LABEL="DefaultLine:Text" DESCRIPTION="line type DefaultLine:Text"/><OtherTag ID="LT1450" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="5761"
           HEIGHT="4016"
-          PHYSICAL_IMG_NR="2"
+          PHYSICAL_IMG_NR="1"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -1642,6 +1642,36 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2055"
+                   VPOS="547"
+                   WIDTH="9"
+                   HEIGHT="9"
+                   ID="eSc_textblock_5a0d63f1"
+                   >
+          <Shape><Polygon POINTS="2055 547 2055 556 2064 556 2064 547"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="98"
+                   VPOS="366"
+                   WIDTH="5663"
+                   HEIGHT="639"
+                   ID="eSc_textblock_e19bdf64"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="98 412 98 1005 5761 942 5761 366"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="133"
+                   VPOS="2929"
+                   WIDTH="5628"
+                   HEIGHT="473"
+                   ID="eSc_textblock_da6e0718"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="133 2987 145 3402 5761 3379 5761 2929"/></Shape>
+          
+        </TextBlock>
+        
         <TextBlock HPOS="149"
                    VPOS="3186"
                    WIDTH="114"
@@ -1652,13 +1682,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2055"
-                   VPOS="547"
-                   WIDTH="9"
-                   HEIGHT="9"
-                   ID="eSc_textblock_5a0d63f1"
-                   >
-          <Shape><Polygon POINTS="2055 547 2055 556 2064 556 2064 547"/></Shape>
+        <TextBlock HPOS="3128"
+                   VPOS="3792"
+                   WIDTH="573"
+                   HEIGHT="151"
+                   ID="eSc_textblock_7c88b4fa"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3701 3943 3701 3792 3128 3792 3128 3943"/></Shape>
           
         </TextBlock>
         

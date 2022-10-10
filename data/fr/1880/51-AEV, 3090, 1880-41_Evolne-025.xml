@@ -11,14 +11,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4377" LABEL="Marginal" DESCRIPTION="block type Marginal"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
+    <OtherTag ID="BT4407" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
     <OtherTag ID="LT1451" LABEL="DefaultLine:Text" DESCRIPTION="line type DefaultLine:Text"/><OtherTag ID="LT1450" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="5868"
           HEIGHT="4016"
-          PHYSICAL_IMG_NR="37"
+          PHYSICAL_IMG_NR="36"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -98,16 +98,16 @@
           <TextLine ID="eSc_line_7ef93b62"
                     
                     BASELINE="264 1154 639 1147" 
-                    HPOS="261"
-                    VPOS="1101"
-                    WIDTH="378"
-                    HEIGHT="73">
-            <Shape><Polygon POINTS="629 1104 599 1101 261 1104 264 1154 264 1174 636 1171 639 1147 629 1104 629 1104"/></Shape>
+                    HPOS="264"
+                    VPOS="1050"
+                    WIDTH="375"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="599 1101 354 1050 264 1154 264 1174 636 1171 639 1147 629 1104"/></Shape>
 	    <String CONTENT="Bovier"
-                    HPOS="261"
-                    VPOS="1101"
-                    WIDTH="378"
-                    HEIGHT="73"></String>
+                    HPOS="264"
+                    VPOS="1050"
+                    WIDTH="375"
+                    HEIGHT="124"></String>
           </TextLine>
 
           
@@ -928,6 +928,36 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="5445"
+                   VPOS="701"
+                   WIDTH="423"
+                   HEIGHT="2089"
+                   ID="eSc_textblock_456802e1"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="5445 701 5445 2790 5868 2790 5868 701"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="152"
+                   VPOS="2884"
+                   WIDTH="5716"
+                   HEIGHT="488"
+                   ID="eSc_textblock_f551cb60"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="154 2934 152 3372 5868 3297 5846 2884"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="120"
+                   VPOS="313"
+                   WIDTH="5748"
+                   HEIGHT="646"
+                   ID="eSc_textblock_ae72e777"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="120 375 126 959 5868 908 5868 313"/></Shape>
+          
+        </TextBlock>
+        
         <TextBlock HPOS="164"
                    VPOS="3134"
                    WIDTH="118"
@@ -938,13 +968,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="5445"
-                   VPOS="701"
-                   WIDTH="423"
-                   HEIGHT="2089"
-                   ID="eSc_textblock_456802e1"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="5445 701 5445 2790 5868 2790 5868 701"/></Shape>
+        <TextBlock HPOS="3039"
+                   VPOS="3759"
+                   WIDTH="760"
+                   HEIGHT="144"
+                   ID="eSc_textblock_a19f0bc5"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3039 3903 3039 3759 3799 3759 3799 3903"/></Shape>
           
         </TextBlock>
         

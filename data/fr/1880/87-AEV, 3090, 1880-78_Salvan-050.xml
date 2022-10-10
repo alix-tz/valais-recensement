@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4377" LABEL="Marginal" DESCRIPTION="block type Marginal"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
+    <OtherTag ID="BT4407" LABEL="Signature" DESCRIPTION="block type Signature"/><OtherTag ID="BT4375" LABEL="Header" DESCRIPTION="block type Header"/><OtherTag ID="BT4376" LABEL="Col" DESCRIPTION="block type Col"/>
     <OtherTag ID="LT1451" LABEL="DefaultLine:Text" DESCRIPTION="line type DefaultLine:Text"/><OtherTag ID="LT1450" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
   </Tags>
   
@@ -1601,6 +1601,36 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="121"
+                   VPOS="2820"
+                   WIDTH="5772"
+                   HEIGHT="453"
+                   ID="eSc_textblock_972749b5"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="128 2827 121 3273 5893 3251 5893 2820"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="98"
+                   VPOS="255"
+                   WIDTH="5795"
+                   HEIGHT="620"
+                   ID="eSc_textblock_98d8dac2"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="98 260 111 875 5893 847 5893 255"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3181"
+                   VPOS="3703"
+                   WIDTH="900"
+                   HEIGHT="123"
+                   ID="eSc_textblock_a8fb8a82"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3181 3826 3181 3703 4081 3703 4081 3826"/></Shape>
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4280"
                    VPOS="525"
                    WIDTH="96"
@@ -1697,7 +1727,7 @@
                    HEIGHT="779"
                    ID="block_11"
                    TAGREFS="BT4376">
-          <Shape><Polygon POINTS="2984 2932 2984 3708 2892 3708 2885 2929"/></Shape>
+          <Shape><Polygon POINTS="2977 2932 2984 3708 2892 3708 2885 2929"/></Shape>
           
         </TextBlock>
         
