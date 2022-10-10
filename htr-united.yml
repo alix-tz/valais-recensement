@@ -1,5 +1,5 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: Tables du recensement du Valais
+title: Recensement Valaisan (Valais Time Machine)
 url: https://github.com/PonteIneptique/valais-recensement
 authors:
 - name: Dubois
@@ -27,7 +27,10 @@ authors:
   surname: Marie-Caroline
   roles:
   - support
-institutions: []
+institutions: 
+- name: Archives du Valais
+  roles:
+  - digitization
 description: Ensemble de formulaire de recensement
 project-name: Valais Time Machine
 project-website: https://www.timemachinevs.ch/
@@ -45,8 +48,8 @@ hands:
   count: 1-per-file
   precision: exact
 license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY-BC 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/
 format: Alto-XML
 volume:
 - metric: characters
@@ -67,7 +70,7 @@ transcription-guidelines: '- Superscript are transcribed with a ^ before the str
 
   - Printed part of the form is not transcribed.
 
-  - Only `Col` regions are used for segmentation'
+  - Only `Col` and `Header` regions are used for table segmentation. If a Signature is at the bottom, we also use `Signature`'
 characters:
   mode: NFD
   members:
