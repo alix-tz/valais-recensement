@@ -1,5 +1,6 @@
 *.mlmodel
 *.arrow
+*.textlog
 yolov5
 my-dataset
 # Byte-compiled / optimized / DLL files
