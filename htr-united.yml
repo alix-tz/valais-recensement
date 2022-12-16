@@ -53,13 +53,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 203001
+  count: 218936
 - metric: files
-  count: 651
+  count: 701
 - metric: lines
-  count: 42436
+  count: 45922
 - metric: regions
-  count: 26871
+  count: 27646
 citation-file-link: https://raw.githubusercontent.com/PonteIneptique/valais-recensement/main/CITATION.CFF
 transcription-guidelines: '- Superscript are transcribed with a ^ before the string.
 
@@ -77,8 +77,8 @@ characters:
   members:
   - e
   - a
-  - i
   - '1'
+  - i
   - r
   - n
   - l
@@ -86,8 +86,8 @@ characters:
   - t
   - o
   - u
-  - c
   - '8'
+  - c
   - /
   - h
   - '"'
@@ -95,26 +95,26 @@ characters:
   - '2'
   - m
   - M
-  - f
   - V
   - b
+  - f
   - g
   - '3'
-  - F
+  - '6'
   - '4'
   - '5'
-  - '6'
+  - F
   - p
   - J
-  - v
   - '7'
+  - v
   - A
   - S
   - "\u0327"
   - "\u0301"
   - "\u0300"
-  - C
   - '0'
+  - C
   - D
   - y
   - B
@@ -122,8 +122,8 @@ characters:
   - L
   - '9'
   - .
-  - P
   - W
+  - P
   - "\u0336"
   - G
   - E
@@ -133,14 +133,14 @@ characters:
   - N
   - H
   - x
-  - "\xB0"
-  - I
-  - w
   - "\u0308"
+  - I
+  - "\xB0"
+  - w
+  - K
+  - k
   - q
   - '-'
-  - k
-  - K
   - j
   - '?'
   - "\u0302"
@@ -153,8 +153,8 @@ characters:
   - (
   - )
   - U
-  - Q
   - ','
+  - Q
   - '='
   - ':'
   - "\u0153"
