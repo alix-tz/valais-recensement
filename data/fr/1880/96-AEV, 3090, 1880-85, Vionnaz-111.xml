@@ -25,6 +25,33 @@
                   WIDTH="5853"
                   HEIGHT="3944">
         
+        <TextBlock HPOS="60"
+                   VPOS="266"
+                   WIDTH="5793"
+                   HEIGHT="600"
+                   ID="eSc_textblock_40a9a431"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="60 266 66 866 5847 846 5853 266"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cc16ba11"
+                    
+                    BASELINE="2878 343 2967 343" 
+                    HPOS="2877"
+                    VPOS="269"
+                    WIDTH="88"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2877 341 2877 354 2965 354 2965 341 2965 282 2877 269 2877 341"/></Shape>
+	    <String CONTENT="/"
+                    HPOS="2877"
+                    VPOS="269"
+                    WIDTH="88"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="67"
                    VPOS="727"
                    WIDTH="128"
@@ -777,6 +804,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2956"
+                   VPOS="3671"
+                   WIDTH="1494"
+                   HEIGHT="149"
+                   ID="eSc_textblock_efc2f02c"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="2956 3820 2956 3671 4450 3671 4444 3820"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_35e8d115"
+                    
+                    BASELINE="3007 3766 4379 3782" 
+                    HPOS="3002"
+                    VPOS="3661"
+                    WIDTH="1374"
+                    HEIGHT="210">
+            <Shape><Polygon POINTS="3005 3763 3002 3845 3166 3842 3173 3845 3192 3861 3192 3865 3196 3865 3199 3865 3367 3868 3370 3868 3373 3868 3459 3848 3574 3871 3577 3871 3580 3871 3584 3871 3630 3838 3646 3825 3699 3835 3830 3865 3834 3865 3837 3865 3840 3865 3876 3832 3883 3825 3896 3832 3932 3851 3935 3851 3939 3851 4011 3838 4031 3855 4031 3858 4034 3858 4037 3858 4041 3858 4044 3858 4047 3858 4083 3835 4373 3822 4376 3779 4373 3661 3005 3661 3005 3763"/></Shape>
+	    <String CONTENT="Bressoud Louis Agent de recensement"
+                    HPOS="3002"
+                    VPOS="3661"
+                    WIDTH="1374"
+                    HEIGHT="210"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4806"
                    VPOS="642"
                    WIDTH="558"
@@ -838,26 +892,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="5420"
-                   VPOS="3010"
-                   WIDTH="433"
-                   HEIGHT="710"
-                   ID="eSc_textblock_50df3c18"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="5420 3010 5420 3720 5853 3720 5853 3010"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="4855"
-                   VPOS="3010"
-                   WIDTH="566"
-                   HEIGHT="708"
-                   ID="eSc_textblock_4b102ffc"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="5412 3718 5421 3013 4855 3010 4855 3715"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="2925"
                    VPOS="534"
                    WIDTH="90"
@@ -868,13 +902,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2845"
-                   VPOS="535"
-                   WIDTH="77"
-                   HEIGHT="2194"
-                   ID="eSc_textblock_bfdcc651"
+        <TextBlock HPOS="74"
+                   VPOS="3021"
+                   WIDTH="118"
+                   HEIGHT="663"
+                   ID="eSc_textblock_a04d1718"
                    TAGREFS="BT4376">
-          <Shape><Polygon POINTS="2845 2729 2845 537 2922 535 2922 2729"/></Shape>
+          <Shape><Polygon POINTS="74 3021 74 3684 192 3684 192 3021"/></Shape>
           
         </TextBlock>
         
@@ -938,33 +972,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="60"
-                   VPOS="266"
-                   WIDTH="5793"
-                   HEIGHT="600"
-                   ID="eSc_textblock_40a9a431"
-                   TAGREFS="BT4375">
-          <Shape><Polygon POINTS="60 266 66 866 5847 846 5853 266"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="74"
-                   VPOS="3021"
-                   WIDTH="118"
-                   HEIGHT="663"
-                   ID="eSc_textblock_a04d1718"
+        <TextBlock HPOS="2845"
+                   VPOS="535"
+                   WIDTH="77"
+                   HEIGHT="2194"
+                   ID="eSc_textblock_bfdcc651"
                    TAGREFS="BT4376">
-          <Shape><Polygon POINTS="74 3021 74 3684 192 3684 192 3021"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2956"
-                   VPOS="3671"
-                   WIDTH="1494"
-                   HEIGHT="149"
-                   ID="eSc_textblock_efc2f02c"
-                   TAGREFS="BT4407">
-          <Shape><Polygon POINTS="2956 3820 2956 3671 4450 3671 4444 3820"/></Shape>
+          <Shape><Polygon POINTS="2845 2729 2845 537 2922 535 2922 2729"/></Shape>
           
         </TextBlock>
         
@@ -1108,6 +1122,26 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="5420"
+                   VPOS="3010"
+                   WIDTH="433"
+                   HEIGHT="710"
+                   ID="eSc_textblock_50df3c18"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="5420 3010 5420 3720 5853 3720 5853 3010"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4855"
+                   VPOS="3010"
+                   WIDTH="566"
+                   HEIGHT="708"
+                   ID="eSc_textblock_4b102ffc"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="5412 3718 5421 3013 4855 3010 4855 3715"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -1130,23 +1164,6 @@
 
           
           
-          <TextLine ID="eSc_line_cc16ba11"
-                    
-                    BASELINE="2878 343 2967 343" 
-                    HPOS="2877"
-                    VPOS="269"
-                    WIDTH="88"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="2877 341 2877 354 2965 354 2965 341 2965 282 2877 269 2877 341"/></Shape>
-	    <String CONTENT="/"
-                    HPOS="2877"
-                    VPOS="269"
-                    WIDTH="88"
-                    HEIGHT="85"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_2eabb100"
                     
                     BASELINE="4429 126 4432 126 4445 126 4508 126 4547 126 4582 126 4618 126 4698 126 4703 129" 
@@ -1160,23 +1177,6 @@
                     VPOS="19"
                     WIDTH="280"
                     HEIGHT="151"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_35e8d115"
-                    
-                    BASELINE="3007 3766 4379 3782" 
-                    HPOS="3002"
-                    VPOS="3661"
-                    WIDTH="1374"
-                    HEIGHT="210">
-            <Shape><Polygon POINTS="3005 3763 3002 3845 3166 3842 3173 3845 3192 3861 3192 3865 3196 3865 3199 3865 3367 3868 3370 3868 3373 3868 3459 3848 3574 3871 3577 3871 3580 3871 3584 3871 3630 3838 3646 3825 3699 3835 3830 3865 3834 3865 3837 3865 3840 3865 3876 3832 3883 3825 3896 3832 3932 3851 3935 3851 3939 3851 4011 3838 4031 3855 4031 3858 4034 3858 4037 3858 4041 3858 4044 3858 4047 3858 4083 3835 4373 3822 4376 3779 4373 3661 3005 3661 3005 3763"/></Shape>
-	    <String CONTENT="Bressoud Louis Agent de recensement"
-                    HPOS="3002"
-                    VPOS="3661"
-                    WIDTH="1374"
-                    HEIGHT="210"></String>
           </TextLine>
 
           

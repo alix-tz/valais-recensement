@@ -25,6 +25,33 @@
                   WIDTH="6024"
                   HEIGHT="4064">
         
+        <TextBlock HPOS="158"
+                   VPOS="406"
+                   WIDTH="5866"
+                   HEIGHT="617"
+                   ID="eSc_textblock_6aa65d14"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="158 406 169 1017 6024 1023 6024 406"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_299ba2fd"
+                    
+                    BASELINE="2964 488 3003 488 3161 483" 
+                    HPOS="2954"
+                    VPOS="375"
+                    WIDTH="203"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="2961 487 2961 508 3157 504 3157 480 3147 375 2954 382 2961 487"/></Shape>
+	    <String CONTENT="Deux"
+                    HPOS="2954"
+                    VPOS="375"
+                    WIDTH="203"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="171"
                    VPOS="868"
                    WIDTH="128"
@@ -1705,23 +1732,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4940"
-                   VPOS="3180"
-                   WIDTH="576"
-                   HEIGHT="695"
-                   ID="eSc_textblock_6a9d05d1"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="5516 3875 5516 3180 4940 3180 4940 3875"/></Shape>
+        <TextBlock HPOS="3114"
+                   VPOS="3869"
+                   WIDTH="1035"
+                   HEIGHT="100"
+                   ID="eSc_textblock_bf37f88a"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3114 3969 3114 3869 4149 3869 4149 3969"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="5511"
-                   VPOS="3185"
-                   WIDTH="499"
-                   HEIGHT="710"
-                   ID="eSc_textblock_4b00bb9a"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="6010 3895 6010 3185 5511 3185 5511 3895"/></Shape>
+          
+          <TextLine ID="eSc_line_1dc341e7"
+                    
+                    BASELINE="3129 3931 4075 3938" 
+                    HPOS="3123"
+                    VPOS="3813"
+                    WIDTH="949"
+                    HEIGHT="179">
+            <Shape><Polygon POINTS="3127 3928 3123 3969 3340 3986 3344 3986 3347 3986 3350 3986 3364 3975 3381 3965 3445 3979 3496 3986 3499 3986 3503 3986 3506 3986 3506 3982 3513 3979 3530 3962 3594 3962 3713 3982 3753 3989 3757 3992 4069 3992 4072 3935 4069 3823 3127 3813 3127 3928"/></Shape>
+	    <String CONTENT="Constantin Jn Maurice"
+                    HPOS="3123"
+                    VPOS="3813"
+                    WIDTH="949"
+                    HEIGHT="179"></String>
+          </TextLine>
+
           
         </TextBlock>
         
@@ -1795,16 +1829,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="158"
-                   VPOS="406"
-                   WIDTH="5866"
-                   HEIGHT="617"
-                   ID="eSc_textblock_6aa65d14"
-                   TAGREFS="BT4375">
-          <Shape><Polygon POINTS="158 406 169 1017 6024 1023 6024 406"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="160"
                    VPOS="2982"
                    WIDTH="5864"
@@ -1822,16 +1846,6 @@
                    ID="eSc_textblock_bb74fcde"
                    >
           <Shape><Polygon POINTS="4976 3169 4976 3167 4964 3167 4964 3169"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="3114"
-                   VPOS="3869"
-                   WIDTH="1035"
-                   HEIGHT="100"
-                   ID="eSc_textblock_bf37f88a"
-                   TAGREFS="BT4407">
-          <Shape><Polygon POINTS="3114 3969 3114 3869 4149 3869 4149 3969"/></Shape>
           
         </TextBlock>
         
@@ -1985,6 +1999,26 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="4940"
+                   VPOS="3180"
+                   WIDTH="576"
+                   HEIGHT="695"
+                   ID="eSc_textblock_6a9d05d1"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="5516 3875 5516 3180 4940 3180 4940 3875"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5511"
+                   VPOS="3185"
+                   WIDTH="499"
+                   HEIGHT="710"
+                   ID="eSc_textblock_4b00bb9a"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="6010 3895 6010 3185 5511 3185 5511 3895"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -2007,23 +2041,6 @@
 
           
           
-          <TextLine ID="eSc_line_299ba2fd"
-                    
-                    BASELINE="2964 488 3003 488 3161 483" 
-                    HPOS="2954"
-                    VPOS="375"
-                    WIDTH="203"
-                    HEIGHT="133">
-            <Shape><Polygon POINTS="2961 487 2961 508 3157 504 3157 480 3147 375 2954 382 2961 487"/></Shape>
-	    <String CONTENT="Deux"
-                    HPOS="2954"
-                    VPOS="375"
-                    WIDTH="203"
-                    HEIGHT="133"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_ffbf9145"
                     
                     BASELINE="4510 305 4592 302 4623 302 4640 302" 
@@ -2037,23 +2054,6 @@
                     VPOS="206"
                     WIDTH="136"
                     HEIGHT="115"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_1dc341e7"
-                    
-                    BASELINE="3129 3931 4075 3938" 
-                    HPOS="3123"
-                    VPOS="3813"
-                    WIDTH="949"
-                    HEIGHT="179">
-            <Shape><Polygon POINTS="3127 3928 3123 3969 3340 3986 3344 3986 3347 3986 3350 3986 3364 3975 3381 3965 3445 3979 3496 3986 3499 3986 3503 3986 3506 3986 3506 3982 3513 3979 3530 3962 3594 3962 3713 3982 3753 3989 3757 3992 4069 3992 4072 3935 4069 3823 3127 3813 3127 3928"/></Shape>
-	    <String CONTENT="Constantin Jn Maurice"
-                    HPOS="3123"
-                    VPOS="3813"
-                    WIDTH="949"
-                    HEIGHT="179"></String>
           </TextLine>
 
           

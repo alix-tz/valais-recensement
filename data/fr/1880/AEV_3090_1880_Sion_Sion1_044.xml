@@ -42,7 +42,7 @@
                     WIDTH="149"
                     HEIGHT="125">
             <Shape><Polygon POINTS="3075 501 3075 558 3224 528 3224 501 3224 433 3075 433 3075 501"/></Shape>
-	    <String CONTENT="4"
+	    <String CONTENT="1"
                     HPOS="3075"
                     VPOS="433"
                     WIDTH="149"
@@ -69,7 +69,7 @@
                     WIDTH="91"
                     HEIGHT="122">
             <Shape><Polygon POINTS="264 1158 264 1202 355 1181 355 1158 348 1080 264 1100 264 1158"/></Shape>
-	    <String CONTENT="1"
+	    <String CONTENT="&quot;"
                     HPOS="264"
                     VPOS="1080"
                     WIDTH="91"
@@ -130,7 +130,7 @@
                     WIDTH="579"
                     HEIGHT="152">
             <Shape><Polygon POINTS="359 1158 359 1195 931 1192 934 1154 924 1043 355 1043 359 1158"/></Shape>
-	    <String CONTENT="Calpine"
+	    <String CONTENT="Calhind"
                     HPOS="355"
                     VPOS="1043"
                     WIDTH="579"
@@ -147,7 +147,7 @@
                     WIDTH="562"
                     HEIGHT="132">
             <Shape><Polygon POINTS="738 1158 734 1158 731 1158 704 1175 480 1161 477 1161 355 1185 359 1249 359 1280 911 1290 917 1242 911 1181 741 1158 738 1158"/></Shape>
-	    <String CONTENT="Pitteloud"
+	    <String CONTENT="Pittelouch"
                     HPOS="355"
                     VPOS="1158"
                     WIDTH="562"
@@ -208,7 +208,7 @@
                     WIDTH="325"
                     HEIGHT="129">
             <Shape><Polygon POINTS="1134 1225 1134 1280 1456 1297 1459 1225 1459 1168 1134 1168 1134 1225"/></Shape>
-	    <String CONTENT="Daniel"
+	    <String CONTENT=""
                     HPOS="1134"
                     VPOS="1168"
                     WIDTH="325"
@@ -252,7 +252,7 @@
                     WIDTH="386"
                     HEIGHT="119">
             <Shape><Polygon POINTS="1601 1229 1601 1280 1984 1273 1984 1219 1974 1161 1710 1178 1598 1161 1601 1229"/></Shape>
-	    <String CONTENT="pensonaire"
+	    <String CONTENT=""
                     HPOS="1598"
                     VPOS="1161"
                     WIDTH="386"
@@ -269,7 +269,7 @@
                     WIDTH="369"
                     HEIGHT="98">
             <Shape><Polygon POINTS="1615 1415 1615 1452 1977 1449 1981 1412 1971 1354 1612 1354 1615 1415"/></Shape>
-	    <String CONTENT="servante"
+	    <String CONTENT="servaute"
                     HPOS="1612"
                     VPOS="1354"
                     WIDTH="369"
@@ -313,7 +313,7 @@
                     WIDTH="47"
                     HEIGHT="44">
             <Shape><Polygon POINTS="2069 1232 2035 1232 2035 1236 2035 1273 2079 1276 2082 1236 2082 1232 2069 1232"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="2035"
                     VPOS="1232"
                     WIDTH="47"
@@ -340,7 +340,7 @@
                     WIDTH="56"
                     HEIGHT="77">
             <Shape><Polygon POINTS="2116 1422 2116 1442 2165 1447 2167 1417 2158 1370 2111 1388 2116 1422"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="2111"
                     VPOS="1370"
                     WIDTH="56"
@@ -367,7 +367,7 @@
                     WIDTH="616"
                     HEIGHT="108">
             <Shape><Polygon POINTS="2204 1148 2204 1175 2814 1178 2817 1144 2811 1073 2201 1070 2204 1148"/></Shape>
-	    <String CONTENT="11 2 14"
+	    <String CONTENT="11 ? 14"
                     HPOS="2201"
                     VPOS="1070"
                     WIDTH="616"
@@ -401,7 +401,7 @@
                     WIDTH="606"
                     HEIGHT="116">
             <Shape><Polygon POINTS="2198 1419 2198 1442 2408 1463 2411 1463 2502 1449 2523 1446 2546 1449 2631 1459 2634 1459 2638 1459 2641 1459 2651 1449 2665 1439 2685 1449 2706 1459 2709 1459 2712 1459 2797 1449 2800 1408 2790 1354 2262 1364 2194 1347 2198 1419"/></Shape>
-	    <String CONTENT="10 4 47"
+	    <String CONTENT="10 &quot; &quot;7"
                     HPOS="2194"
                     VPOS="1347"
                     WIDTH="606"
@@ -428,7 +428,7 @@
                     WIDTH="58"
                     HEIGHT="88">
             <Shape><Polygon POINTS="2859 1155 2859 1189 2917 1176 2917 1155 2913 1101 2859 1126 2859 1155"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="2859"
                     VPOS="1101"
                     WIDTH="58"
@@ -445,7 +445,7 @@
                     WIDTH="54"
                     HEIGHT="90">
             <Shape><Polygon POINTS="2865 1422 2865 1451 2919 1442 2919 1422 2915 1361 2865 1377 2865 1422"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="2865"
                     VPOS="1361"
                     WIDTH="54"
@@ -550,7 +550,7 @@
                     WIDTH="292"
                     HEIGHT="159">
             <Shape><Polygon POINTS="3291 1412 3291 1456 3319 1452 3325 1456 3369 1493 3373 1493 3376 1493 3380 1496 3457 1496 3457 1493 3461 1493 3464 1493 3464 1490 3505 1449 3508 1449 3583 1449 3583 1412 3583 1364 3464 1364 3461 1361 3424 1337 3420 1337 3417 1337 3413 1337 3291 1358 3291 1412"/></Shape>
-	    <String CONTENT="Viège"
+	    <String CONTENT="Viège"
                     HPOS="3291"
                     VPOS="1337"
                     WIDTH="292"
@@ -567,7 +567,7 @@
                     WIDTH="285"
                     HEIGHT="101">
             <Shape><Polygon POINTS="3247 1148 3247 1181 3525 1178 3529 1144 3522 1090 3244 1080 3247 1148"/></Shape>
-	    <String CONTENT="Sion"
+	    <String CONTENT="Saon"
                     HPOS="3244"
                     VPOS="1080"
                     WIDTH="285"
@@ -611,7 +611,7 @@
                     WIDTH="32"
                     HEIGHT="72">
             <Shape><Polygon POINTS="4073 1241 4073 1266 4101 1266 4101 1239 4094 1194 4069 1194 4073 1241"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="4069"
                     VPOS="1194"
                     WIDTH="32"
@@ -628,7 +628,7 @@
                     WIDTH="59"
                     HEIGHT="97">
             <Shape><Polygon POINTS="4053 1415 4055 1447 4105 1447 4105 1411 4096 1350 4046 1354 4053 1415"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="4046"
                     VPOS="1350"
                     WIDTH="59"
@@ -655,7 +655,7 @@
                     WIDTH="85"
                     HEIGHT="128">
             <Shape><Polygon POINTS="4226 1137 4230 1198 4311 1175 4311 1137 4304 1070 4226 1097 4226 1137"/></Shape>
-	    <String CONTENT="/"
+	    <String CONTENT="1"
                     HPOS="4226"
                     VPOS="1070"
                     WIDTH="85"
@@ -716,7 +716,7 @@
                     WIDTH="393"
                     HEIGHT="112">
             <Shape><Polygon POINTS="4575 1175 4965 1175 4968 1144 4954 1063 4914 1080 4849 1066 4846 1066 4843 1066 4839 1066 4812 1087 4704 1066 4700 1066 4697 1066 4694 1066 4609 1087 4575 1066 4575 1148 4575 1175"/></Shape>
-	    <String CONTENT="Allemand"
+	    <String CONTENT="allemand"
                     HPOS="4575"
                     VPOS="1063"
                     WIDTH="393"
@@ -760,7 +760,7 @@
                     WIDTH="579"
                     HEIGHT="119">
             <Shape><Polygon POINTS="5005 1144 5005 1181 5574 1185 5581 1141 5574 1083 5493 1066 5489 1066 5486 1066 5422 1083 5398 1093 5239 1093 5235 1087 5215 1070 5215 1066 5212 1066 5208 1066 5083 1066 5080 1066 5076 1066 5002 1087 5005 1144"/></Shape>
-	    <String CONTENT="éclésiastique"
+	    <String CONTENT="éelínastique"
                     HPOS="5002"
                     VPOS="1066"
                     WIDTH="579"
@@ -777,7 +777,7 @@
                     WIDTH="461"
                     HEIGHT="117">
             <Shape><Polygon POINTS="5029 1237 5029 1259 5230 1257 5279 1277 5307 1286 5309 1286 5311 1286 5313 1286 5316 1286 5325 1280 5331 1275 5485 1286 5487 1235 5485 1196 5431 1169 5428 1169 5426 1169 5424 1169 5356 1196 5297 1196 5273 1171 5273 1169 5270 1169 5268 1169 5225 1169 5223 1169 5221 1169 5218 1169 5189 1192 5162 1169 5160 1169 5157 1169 5099 1169 5096 1169 5094 1169 5026 1194 5029 1237"/></Shape>
-	    <String CONTENT="Etudiant"
+	    <String CONTENT="Itudiant"
                     HPOS="5026"
                     VPOS="1169"
                     WIDTH="461"
@@ -804,7 +804,7 @@
                     WIDTH="438"
                     HEIGHT="147">
             <Shape><Polygon POINTS="3416 3962 3414 3998 3848 4003 3852 3973 3850 3876 3721 3878 3699 3867 3692 3865 3690 3865 3687 3865 3685 3865 3683 3865 3681 3867 3667 3876 3615 3865 3604 3863 3601 3863 3599 3863 3597 3863 3581 3874 3543 3863 3541 3863 3538 3863 3480 3872 3419 3856 3416 3962"/></Shape>
-	    <String CONTENT="&lt;&gt; Duc"
+	    <String CONTENT="M. Du"
                     HPOS="3414"
                     VPOS="3856"
                     WIDTH="438"
@@ -1087,7 +1087,7 @@
                     WIDTH="115"
                     HEIGHT="173">
             <Shape><Polygon POINTS="4602 291 4602 372 4717 372 4717 291 4717 199 4602 199 4602 291"/></Shape>
-	    <String CONTENT="11"
+	    <String CONTENT="1"
                     HPOS="4602"
                     VPOS="199"
                     WIDTH="115"

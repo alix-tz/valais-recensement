@@ -590,6 +590,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="3142"
+                   VPOS="3734"
+                   WIDTH="667"
+                   HEIGHT="185"
+                   ID="eSc_textblock_73ac1257"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3809 3919 3809 3734 3142 3734 3142 3919"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dd4cc863"
+                    TAGREFS="LT1451"
+                    BASELINE="3168 3858 3774 3854" 
+                    HPOS="3161"
+                    VPOS="3794"
+                    WIDTH="610"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="3161 3814 3165 3854 3165 3928 3269 3925 3273 3925 3276 3925 3310 3898 3417 3898 3451 3922 3458 3925 3461 3925 3464 3925 3468 3925 3501 3918 3565 3905 3609 3915 3646 3925 3650 3925 3653 3925 3767 3908 3771 3851 3764 3804 3161 3794 3161 3814"/></Shape>
+	    <String CONTENT="Genoud Thérèse"
+                    HPOS="3161"
+                    VPOS="3794"
+                    WIDTH="610"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4909"
                    VPOS="696"
                    WIDTH="574"
@@ -631,16 +658,6 @@
                     HEIGHT="121"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2197"
-                   VPOS="3014"
-                   WIDTH="677"
-                   HEIGHT="782"
-                   ID="eSc_textblock_e71fdef1"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="2874 3014 2874 3796 2197 3796 2197 3014"/></Shape>
           
         </TextBlock>
         
@@ -714,16 +731,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4611"
-                   VPOS="2900"
-                   WIDTH="374"
-                   HEIGHT="867"
-                   ID="eSc_textblock_13fb1426"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="4985 2900 4981 3767 4611 3767 4611 2912"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="4995"
                    VPOS="3077"
                    WIDTH="554"
@@ -754,13 +761,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="3142"
-                   VPOS="3734"
-                   WIDTH="667"
-                   HEIGHT="185"
-                   ID="eSc_textblock_73ac1257"
-                   TAGREFS="BT4407">
-          <Shape><Polygon POINTS="3809 3919 3809 3734 3142 3734 3142 3919"/></Shape>
+        <TextBlock HPOS="4611"
+                   VPOS="2900"
+                   WIDTH="374"
+                   HEIGHT="867"
+                   ID="eSc_textblock_13fb1426"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="4985 2900 4981 3767 4611 3767 4611 2912"/></Shape>
           
         </TextBlock>
         
@@ -904,6 +911,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2197"
+                   VPOS="3014"
+                   WIDTH="677"
+                   HEIGHT="782"
+                   ID="eSc_textblock_e71fdef1"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="2874 3014 2874 3796 2197 3796 2197 3014"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -939,23 +956,6 @@
                     VPOS="104"
                     WIDTH="94"
                     HEIGHT="148"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_dd4cc863"
-                    TAGREFS="LT1451"
-                    BASELINE="3168 3858 3774 3854" 
-                    HPOS="3161"
-                    VPOS="3794"
-                    WIDTH="610"
-                    HEIGHT="134">
-            <Shape><Polygon POINTS="3161 3814 3165 3854 3165 3928 3269 3925 3273 3925 3276 3925 3310 3898 3417 3898 3451 3922 3458 3925 3461 3925 3464 3925 3468 3925 3501 3918 3565 3905 3609 3915 3646 3925 3650 3925 3653 3925 3767 3908 3771 3851 3764 3804 3161 3794 3161 3814"/></Shape>
-	    <String CONTENT="Genoud Thérèse"
-                    HPOS="3161"
-                    VPOS="3794"
-                    WIDTH="610"
-                    HEIGHT="134"></String>
           </TextLine>
 
           

@@ -430,13 +430,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2112"
-                   VPOS="3031"
-                   WIDTH="707"
-                   HEIGHT="872"
-                   ID="eSc_textblock_ca76a150"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="2812 3031 2819 3903 2130 3903 2112 3033"/></Shape>
+        <TextBlock HPOS="3169"
+                   VPOS="3899"
+                   WIDTH="1224"
+                   HEIGHT="104"
+                   ID="eSc_textblock_c1c35f91"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3169 4003 3169 3899 4393 3899 4393 4003"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9e0e2a9a"
+                    TAGREFS="LT1451"
+                    BASELINE="3177 3969 4376 3955" 
+                    HPOS="3174"
+                    VPOS="3895"
+                    WIDTH="1202"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="4346 3895 4312 3895 4309 3895 4041 3912 3897 3898 3857 3895 3853 3895 3827 3898 3750 3918 3595 3918 3582 3902 3579 3902 3579 3898 3575 3898 3572 3898 3478 3898 3475 3898 3472 3898 3468 3898 3462 3905 3438 3918 3174 3912 3177 3969 3177 4012 3207 4012 3241 4012 3274 4012 3308 4012 3341 4012 3375 4012 3405 4012 3485 3985 3632 3985 3652 4005 3662 4012 3676 4012 3709 4012 3743 4012 3776 4012 3810 4012 3843 4012 3877 4012 3880 4012 3883 4012 3887 4012 3914 3995 3934 3982 3981 3992 4068 4012 4071 4012 4074 4012 4128 3985 4145 3979 4372 3979 4376 3955 4366 3895 4346 3895"/></Shape>
+	    <String CONTENT="Louis Thurer agent"
+                    HPOS="3174"
+                    VPOS="3895"
+                    WIDTH="1202"
+                    HEIGHT="117"></String>
+          </TextLine>
+
           
         </TextBlock>
         
@@ -510,16 +527,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4544"
-                   VPOS="3009"
-                   WIDTH="384"
-                   HEIGHT="856"
-                   ID="eSc_textblock_4228404c"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="4918 3009 4928 3865 4555 3865 4544 3013"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="4926"
                    VPOS="3170"
                    WIDTH="583"
@@ -550,13 +557,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="3169"
-                   VPOS="3899"
-                   WIDTH="1224"
-                   HEIGHT="104"
-                   ID="eSc_textblock_c1c35f91"
-                   TAGREFS="BT4407">
-          <Shape><Polygon POINTS="3169 4003 3169 3899 4393 3899 4393 4003"/></Shape>
+        <TextBlock HPOS="4544"
+                   VPOS="3009"
+                   WIDTH="384"
+                   HEIGHT="856"
+                   ID="eSc_textblock_4228404c"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="4918 3009 4928 3865 4555 3865 4544 3013"/></Shape>
           
         </TextBlock>
         
@@ -700,6 +707,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2112"
+                   VPOS="3031"
+                   WIDTH="707"
+                   HEIGHT="872"
+                   ID="eSc_textblock_ca76a150"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="2812 3031 2819 3903 2130 3903 2112 3033"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -735,23 +752,6 @@
                     VPOS="190"
                     WIDTH="80"
                     HEIGHT="151"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9e0e2a9a"
-                    TAGREFS="LT1451"
-                    BASELINE="3177 3969 4376 3955" 
-                    HPOS="3174"
-                    VPOS="3895"
-                    WIDTH="1202"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="4346 3895 4312 3895 4309 3895 4041 3912 3897 3898 3857 3895 3853 3895 3827 3898 3750 3918 3595 3918 3582 3902 3579 3902 3579 3898 3575 3898 3572 3898 3478 3898 3475 3898 3472 3898 3468 3898 3462 3905 3438 3918 3174 3912 3177 3969 3177 4012 3207 4012 3241 4012 3274 4012 3308 4012 3341 4012 3375 4012 3405 4012 3485 3985 3632 3985 3652 4005 3662 4012 3676 4012 3709 4012 3743 4012 3776 4012 3810 4012 3843 4012 3877 4012 3880 4012 3883 4012 3887 4012 3914 3995 3934 3982 3981 3992 4068 4012 4071 4012 4074 4012 4128 3985 4145 3979 4372 3979 4376 3955 4366 3895 4346 3895"/></Shape>
-	    <String CONTENT="Louis Thurer agent"
-                    HPOS="3174"
-                    VPOS="3895"
-                    WIDTH="1202"
-                    HEIGHT="117"></String>
           </TextLine>
 
           

@@ -1603,13 +1603,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2719"
-                   VPOS="3073"
-                   WIDTH="87"
-                   HEIGHT="774"
-                   ID="eSc_textblock_62f488e3"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="2806 3073 2806 3847 2719 3847 2719 3073"/></Shape>
+        <TextBlock HPOS="3143"
+                   VPOS="3840"
+                   WIDTH="438"
+                   HEIGHT="172"
+                   ID="eSc_textblock_ac2b1b98"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="3581 4012 3566 3891 3564 3876 3493 3845 3148 3840 3143 4012 3432 4012"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f1b55547"
+                    TAGREFS="LT1451"
+                    BASELINE="3164 3913 3549 3919" 
+                    HPOS="3161"
+                    VPOS="3865"
+                    WIDTH="388"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="3532 3916 3508 3869 3164 3865 3164 3913 3161 3994 3545 3973 3549 3919 3545 3889 3532 3916"/></Shape>
+	    <String CONTENT="Gay Josaîe"
+                    HPOS="3161"
+                    VPOS="3865"
+                    WIDTH="388"
+                    HEIGHT="129"></String>
+          </TextLine>
+
           
         </TextBlock>
         
@@ -1673,13 +1690,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="4445"
-                   VPOS="2998"
-                   WIDTH="375"
-                   HEIGHT="846"
-                   ID="eSc_textblock_a4e0fdda"
+        <TextBlock HPOS="37"
+                   VPOS="842"
+                   WIDTH="135"
+                   HEIGHT="1998"
+                   ID="eSc_textblock_6df875f9"
                    TAGREFS="BT4376">
-          <Shape><Polygon POINTS="4820 2998 4820 3844 4445 3844 4445 2998"/></Shape>
+          <Shape><Polygon POINTS="172 842 172 2840 37 2840 37 842"/></Shape>
           
         </TextBlock>
         
@@ -1713,23 +1730,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="37"
-                   VPOS="842"
-                   WIDTH="135"
-                   HEIGHT="1998"
-                   ID="eSc_textblock_6df875f9"
+        <TextBlock HPOS="4445"
+                   VPOS="2998"
+                   WIDTH="375"
+                   HEIGHT="846"
+                   ID="eSc_textblock_a4e0fdda"
                    TAGREFS="BT4376">
-          <Shape><Polygon POINTS="172 842 172 2840 37 2840 37 842"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="3143"
-                   VPOS="3840"
-                   WIDTH="438"
-                   HEIGHT="172"
-                   ID="eSc_textblock_ac2b1b98"
-                   TAGREFS="BT4407">
-          <Shape><Polygon POINTS="3581 4012 3566 3891 3564 3876 3493 3845 3148 3840 3143 4012 3432 4012"/></Shape>
+          <Shape><Polygon POINTS="4820 2998 4820 3844 4445 3844 4445 2998"/></Shape>
           
         </TextBlock>
         
@@ -1873,6 +1880,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2719"
+                   VPOS="3073"
+                   WIDTH="87"
+                   HEIGHT="774"
+                   ID="eSc_textblock_62f488e3"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="2806 3073 2806 3847 2719 3847 2719 3073"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -1908,23 +1925,6 @@
                     VPOS="94"
                     WIDTH="132"
                     HEIGHT="223"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_f1b55547"
-                    TAGREFS="LT1451"
-                    BASELINE="3164 3913 3549 3919" 
-                    HPOS="3161"
-                    VPOS="3865"
-                    WIDTH="388"
-                    HEIGHT="129">
-            <Shape><Polygon POINTS="3532 3916 3508 3869 3164 3865 3164 3913 3161 3994 3545 3973 3549 3919 3545 3889 3532 3916"/></Shape>
-	    <String CONTENT="Gay Josaîe"
-                    HPOS="3161"
-                    VPOS="3865"
-                    WIDTH="388"
-                    HEIGHT="129"></String>
           </TextLine>
 
           

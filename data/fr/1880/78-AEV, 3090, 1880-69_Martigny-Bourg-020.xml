@@ -25,6 +25,33 @@
                   WIDTH="5883"
                   HEIGHT="4016">
         
+        <TextBlock HPOS="59"
+                   VPOS="232"
+                   WIDTH="5824"
+                   HEIGHT="689"
+                   ID="eSc_textblock_43cf1c73"
+                   TAGREFS="BT4375">
+          <Shape><Polygon POINTS="71 232 59 862 5883 921 5877 338"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3fa69428"
+                    TAGREFS="LT1451"
+                    BASELINE="2944 367 3179 370" 
+                    HPOS="2939"
+                    VPOS="307"
+                    WIDTH="238"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2943 364 2939 384 3174 378 3177 368 3170 307 2943 311 2943 364"/></Shape>
+	    <String CONTENT="deux"
+                    HPOS="2939"
+                    VPOS="307"
+                    WIDTH="238"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="44"
                    VPOS="710"
                    WIDTH="148"
@@ -1389,6 +1416,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="3024"
+                   VPOS="3564"
+                   WIDTH="1591"
+                   HEIGHT="426"
+                   ID="eSc_textblock_299e5249"
+                   TAGREFS="BT4407">
+          <Shape><Polygon POINTS="4615 3990 4615 3564 3024 3564 3024 3990"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_096cafce"
+                    TAGREFS="LT1450"
+                    BASELINE="3167 3818 4550 3800" 
+                    HPOS="3160"
+                    VPOS="3621"
+                    WIDTH="1387"
+                    HEIGHT="257">
+            <Shape><Polygon POINTS="3164 3878 3214 3878 3214 3875 3217 3875 3221 3875 3221 3872 3251 3848 3391 3848 3428 3875 3432 3875 3435 3875 3438 3875 3442 3875 3445 3875 3445 3872 3478 3852 3572 3865 3576 3865 3833 3841 4543 3858 4547 3798 4536 3701 4245 3711 4168 3681 4024 3621 4021 3621 4017 3621 4014 3621 4011 3621 3930 3667 3850 3718 3676 3718 3619 3708 3562 3651 3542 3631 3542 3627 3539 3627 3535 3627 3532 3627 3160 3627 3164 3815"/></Shape>
+	    <String CONTENT="Jules Emonnet agent en chef"
+                    HPOS="3160"
+                    VPOS="3621"
+                    WIDTH="1387"
+                    HEIGHT="257"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4776"
                    VPOS="716"
                    WIDTH="586"
@@ -1501,26 +1555,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2888"
-                   VPOS="2974"
-                   WIDTH="105"
-                   HEIGHT="772"
-                   ID="block_4"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="2902 2976 2888 3746 2980 3745 2993 2974"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2981"
-                   VPOS="2970"
-                   WIDTH="93"
-                   HEIGHT="778"
-                   ID="block_2"
-                   TAGREFS="BT4376">
-          <Shape><Polygon POINTS="3074 2970 3068 3746 2981 3748 3000 2974"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="3070"
                    VPOS="2979"
                    WIDTH="489"
@@ -1621,16 +1655,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1702"
-                   VPOS="3002"
-                   WIDTH="29"
-                   HEIGHT="2"
-                   ID="eSc_textblock_3e6a9c2a"
-                   >
-          <Shape><Polygon POINTS="1702 3004 1702 3002 1731 3002 1731 3004"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="2908"
                    VPOS="4018"
                    WIDTH="414"
@@ -1651,16 +1675,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="59"
-                   VPOS="232"
-                   WIDTH="5824"
-                   HEIGHT="689"
-                   ID="eSc_textblock_43cf1c73"
-                   TAGREFS="BT4375">
-          <Shape><Polygon POINTS="71 232 59 862 5883 921 5877 338"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="41"
                    VPOS="2815"
                    WIDTH="5842"
@@ -1671,13 +1685,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="3024"
-                   VPOS="3564"
-                   WIDTH="1591"
-                   HEIGHT="426"
-                   ID="eSc_textblock_299e5249"
-                   TAGREFS="BT4407">
-          <Shape><Polygon POINTS="4615 3990 4615 3564 3024 3564 3024 3990"/></Shape>
+        <TextBlock HPOS="1702"
+                   VPOS="3002"
+                   WIDTH="29"
+                   HEIGHT="2"
+                   ID="eSc_textblock_3e6a9c2a"
+                   >
+          <Shape><Polygon POINTS="1702 3004 1702 3002 1731 3002 1731 3004"/></Shape>
           
         </TextBlock>
         
@@ -1821,6 +1835,26 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="2888"
+                   VPOS="2974"
+                   WIDTH="105"
+                   HEIGHT="772"
+                   ID="block_4"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="2902 2976 2888 3746 2980 3745 2993 2974"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2981"
+                   VPOS="2970"
+                   WIDTH="93"
+                   HEIGHT="778"
+                   ID="block_2"
+                   TAGREFS="BT4376">
+          <Shape><Polygon POINTS="3074 2970 3068 3746 2981 3748 3000 2974"/></Shape>
+          
+        </TextBlock>
+        
 
         
         <TextBlock ID="eSc_dummyblock_">
@@ -1843,23 +1877,6 @@
 
           
           
-          <TextLine ID="eSc_line_3fa69428"
-                    TAGREFS="LT1451"
-                    BASELINE="2944 367 3179 370" 
-                    HPOS="2939"
-                    VPOS="307"
-                    WIDTH="238"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="2943 364 2939 384 3174 378 3177 368 3170 307 2943 311 2943 364"/></Shape>
-	    <String CONTENT="deux"
-                    HPOS="2939"
-                    VPOS="307"
-                    WIDTH="238"
-                    HEIGHT="77"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_c016330a"
                     TAGREFS="LT1451"
                     BASELINE="4521 183 4677 184" 
@@ -1873,23 +1890,6 @@
                     VPOS="76"
                     WIDTH="154"
                     HEIGHT="148"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_096cafce"
-                    TAGREFS="LT1450"
-                    BASELINE="3167 3818 4550 3800" 
-                    HPOS="3160"
-                    VPOS="3621"
-                    WIDTH="1387"
-                    HEIGHT="257">
-            <Shape><Polygon POINTS="3164 3878 3214 3878 3214 3875 3217 3875 3221 3875 3221 3872 3251 3848 3391 3848 3428 3875 3432 3875 3435 3875 3438 3875 3442 3875 3445 3875 3445 3872 3478 3852 3572 3865 3576 3865 3833 3841 4543 3858 4547 3798 4536 3701 4245 3711 4168 3681 4024 3621 4021 3621 4017 3621 4014 3621 4011 3621 3930 3667 3850 3718 3676 3718 3619 3708 3562 3651 3542 3631 3542 3627 3539 3627 3535 3627 3532 3627 3160 3627 3164 3815"/></Shape>
-	    <String CONTENT="Jules Emonnet agent en chef"
-                    HPOS="3160"
-                    VPOS="3621"
-                    WIDTH="1387"
-                    HEIGHT="257"></String>
           </TextLine>
 
           
