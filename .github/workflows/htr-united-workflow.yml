@@ -35,7 +35,7 @@ jobs:
         pip install htrvx
     - name: Run HTRVX
       run: |
-        htrvx --verbose --group --format alto --xsd --check-empty data/*/*/*.xml --zone Header --zone Details --zone Col --zone Adresse --zone Signature
+        htrvx --verbose --group --format alto --xsd --check-empty data/*/*/*.xml --zone Header --zone Details --zone Col --zone Adresse --zone Signature --zone ""
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     steps:
