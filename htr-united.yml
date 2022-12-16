@@ -53,11 +53,11 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 169983
+  count: 169887
 - metric: files
   count: 551
 - metric: lines
-  count: 36194
+  count: 36202
 - metric: regions
   count: 23678
 citation-file-link: https://raw.githubusercontent.com/PonteIneptique/valais-recensement/main/CITATION.CFF
@@ -86,8 +86,8 @@ characters:
   - t
   - o
   - u
-  - /
   - c
+  - /
   - '8'
   - '"'
   - h
@@ -101,8 +101,8 @@ characters:
   - b
   - g
   - '3'
-  - v
   - '4'
+  - v
   - p
   - '5'
   - '6'
@@ -116,19 +116,19 @@ characters:
   - C
   - y
   - '0'
-  - D
   - B
+  - D
   - z
-  - L
   - '9'
+  - L
   - "\u0336"
   - .
   - P
   - G
   - W
   - E
-  - R
   - T
+  - R
   - N
   - O
   - x
@@ -136,35 +136,35 @@ characters:
   - "\xB0"
   - I
   - q
-  - '?'
   - w
+  - '?'
   - "\u0308"
   - k
-  - '-'
   - j
+  - '-'
   - "\u0302"
   - K
-  - Z
   - _
+  - Z
   - "\u0335"
-  - ^
   - X
   - ''''
   - (
   - U
   - )
+  - ^
   - Q
   - '='
   - "\u0153"
-  - <
   - ','
-  - '>'
+  - <
   - '!'
   - ':'
   - '['
   - ']'
   - "\u15C5"
   - "\xA8"
+  - '>'
   - \
   - +
   - '#'
