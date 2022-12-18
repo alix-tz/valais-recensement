@@ -21,6 +21,21 @@ jobs:
     - name: Run HTRUC
       run: |
         htruc test htr-united.yml
+  ChocoMufin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install chocomufin
+      - name: Run ChocoMufin
+        run: |
+          chocomufin -n NFD control table.csv data/*/*/*.xml
   HTRVX:  # Test that the data are following the right format
     runs-on: ubuntu-latest
     steps:

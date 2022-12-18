@@ -1,0 +1,38 @@
+char,name,replacement,codepoint,mufidecode
+#r#[A-Za-z0-9],Normal chars,#r#[A-Za-z0-9],,
+(,Parenthese,(,,
+),Parenthese,),,
+œ,OE,oe,,
+ᗅ,False A,A,,
+[,Square bracket 1,(,,
+],Square bracket 1,),,
+},Curly bracket 1,),,
+&,Ampersand,&,,
+^,Circonflex non combining,,,
+>,Greater than,,,
+<,Less than sign,,,
+',Apostrophe,',,
+#r#\u0327,Combining CEDILLA,#r#\u0327,,
+#r#\u0301,COMBINING ACUTE ACCENT,#r#\u0301,,
+#r#\u0300,COMBINING GRAVE ACCENT,#r#\u0300,,
+#r#\u0302,COMBINING CIRCUMFLEX,#r#\u0302,,
+̈,COMBINING DIAERESIS,̈,308,
+#r#\u00A8,DIAERISIS,#r#\u00A8,,
+#r#\u0335,COMBINING LONG STROKE,,,
+#r#\u0336,COMBINING LONG STROKE,,,
+",",COMMA,",",,
+_,LOW LINE,-,,
+:,COLON,:,,
+?,QUESTION MARK,?,003F,?
++,PLUS SIGN,+,002B,+
+\,REVERSE SOLIDUS,/,005C,/
+-,HYPHEN-MINUS,-,002D,-
+.,FULL STOP,.,002E,.
+#,NUMBER SIGN,#,23,#
+*,ASTERISK,*,002A,*
+°,DEGREE SIGN,°,00B0,*
+=,EQUALS SIGN,=,003D,=
+/,SOLIDUS,/,002F,/
+!,EXCLAMATION MARK,!,21,!
+"""",QUOTATION MARK,"""",22,""""
+§,SECTION SIGN,,00A7,
