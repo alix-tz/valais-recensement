@@ -1,79 +1,30 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: Recensement Valaisan (Valais Time Machine)
-url: https://github.com/PonteIneptique/valais-recensement
 authors:
 - name: Dubois
-  surname: Alain
   roles:
   - project-manager
-- name: "Cl\xE9rice"
-  surname: Thibault
+  surname: Alain
+- name: Clérice
   roles:
   - project-manager
   - quality-control
+  surname: Thibault
 - name: Rudaz
+  roles:
+  - transcriber
   surname: Clemence
-  roles:
-  - transcriber
 - name: Schlaeppi
+  roles:
+  - transcriber
   surname: Darius
-  roles:
-  - transcriber
 - name: Mamie
-  surname: Delphine
   roles:
   - transcriber
+  surname: Delphine
 - name: Schmied
-  surname: Marie-Caroline
   roles:
   - support
-institutions:
-- name: Archives du Valais
-  roles:
-  - digitization
-description: Ensemble de formulaire de recensement
-project-name: Valais Time Machine
-project-website: https://www.timemachinevs.ch/
-language:
-- fra
-- deu
-production-software: eScriptorium + Kraken
-script:
-- iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1870'
-  notAfter: '1890'
-hands:
-  count: 1-per-file
-  precision: exact
-license:
-- name: CC-BY-BC 4.0
-  url: https://creativecommons.org/licenses/by-nc/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 282260
-- metric: files
-  count: 915
-- metric: lines
-  count: 59368
-- metric: regions
-  count: 34083
-citation-file-link: https://raw.githubusercontent.com/PonteIneptique/valais-recensement/main/CITATION.CFF
-transcription-guidelines: '- Superscript are transcribed with a ^ before the string.
-
-  - Transcription is faithful: nothing is corrected.
-
-  - Checkmarks in table are transcribed as `/`. Some checkmarks looking character
-  can be transcribed as `1` if the 1 in the dates looks the same
-
-  - Printed part of the form is not transcribed.
-
-  - Only `Col` and `Header` regions are used for table segmentation. If a Signature
-  is at the bottom, we also use `Signature`'
+  surname: Marie-Caroline
 characters:
-  mode: NFD
   members:
   - e
   - '1'
@@ -111,9 +62,9 @@ characters:
   - A
   - S
   - '0'
-  - "\u0327"
-  - "\u0300"
-  - "\u0301"
+  - ̧
+  - ̀
+  - ́
   - z
   - y
   - C
@@ -127,28 +78,28 @@ characters:
   - G
   - E
   - T
-  - "\u0336"
+  - ̶
   - R
   - H
   - N
   - O
-  - "\u0308"
+  - ̈
   - x
   - I
   - K
   - k
   - w
-  - "\xB0"
+  - °
   - q
   - '-'
   - j
-  - "\u0302"
+  - ̂
   - '?'
   - Z
-  - ''''
+  - "'"
   - _
   - ^
-  - "\u0335"
+  - ̵
   - X
   - U
   - (
@@ -159,16 +110,60 @@ characters:
   - ':'
   - <
   - '>'
-  - "\u0153"
+  - œ
   - '!'
   - '&'
   - '['
   - ']'
-  - "\u15C5"
-  - "\xA8"
+  - ᗅ
+  - ¨
   - '*'
-  - "\xA7"
+  - §
   - '}'
   - \
   - +
   - '#'
+  mode: NFD
+citation-file-link: https://raw.githubusercontent.com/PonteIneptique/valais-recensement/main/CITATION.CFF
+description: Ensemble de formulaire de recensement
+format: Alto-XML
+hands:
+  count: 1-per-file
+  precision: exact
+institutions:
+- name: Archives du Valais
+  roles:
+  - digitization
+language:
+- fra
+- deu
+license:
+- name: CC-BY-BC 4.0
+  url: https://creativecommons.org/licenses/by-nc/4.0/
+production-software: eScriptorium + Kraken
+project-name: Valais Time Machine
+project-website: https://www.timemachinevs.ch/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1890'
+  notBefore: '1870'
+title: Recensement Valaisan (Valais Time Machine)
+transcription-guidelines: "- Superscript are transcribed with a ^ before the string.\n\
+  - Transcription is faithful: nothing is corrected.\n- Checkmarks in table are transcribed\
+  \ as `/`. Some checkmarks looking character can be transcribed as `1` if the 1 in\
+  \ the dates looks the same\n- Printed part of the form is not transcribed.\n- Only\
+  \ `Col` and `Header` regions are used for table segmentation. If a Signature is\
+  \ at the bottom, we also use `Signature`"
+url: https://github.com/PonteIneptique/valais-recensement
+volume:
+- count: 282260
+  metric: characters
+- count: 915
+  metric: files
+- count: 59368
+  metric: lines
+- count: 34083
+  metric: regions
