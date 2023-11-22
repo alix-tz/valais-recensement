@@ -35,7 +35,7 @@ jobs:
           pip install chocomufin
       - name: Run ChocoMufin
         run: |
-          chocomufin -n NFD control table.csv data/*/*/*.xml
+          chocomufin -n NFD control table.csv data/fr/*/*.xml
   HTRVX:  # Test that the data are following the right format
     runs-on: ubuntu-latest
     steps:
@@ -50,7 +50,7 @@ jobs:
         pip install htrvx
     - name: Run HTRVX
       run: |
-        htrvx --verbose --group --format alto --xsd --check-empty data/*/*/*.xml --zone Header --zone Details --zone Col --zone Adresse --zone Signature  --allow-untagged both --max-untagged-zones 1 --verbose-level low
+        htrvx --verbose --group --format alto --xsd --check-empty data/fr/*/*.xml --zone Header --zone Details --zone Col --zone Adresse --zone Signature  --allow-untagged both --max-untagged-zones 1 --verbose-level low
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     steps:
@@ -65,7 +65,7 @@ jobs:
         pip install htr-united-metadata-generator htruc anybadge
     - name: Run Report
       run: |
-        humGenerator --parse alto --group ./data/*/*/*.xml --github-envs --to-json updated_metrics.json --chars -n NFD
+        humGenerator --parse alto --group ./data/fr/*/*.xml --github-envs --to-json updated_metrics.json --chars -n NFD
         cat envs.txt >> $GITHUB_ENV
     - name: Get HTR United Badge Template
       if: github.ref == 'refs/heads/main'
